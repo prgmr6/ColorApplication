@@ -1,0 +1,37 @@
+﻿[
+	{
+		"color": "red", 
+		"fontcolor": "white",
+		"selected": false 
+	},
+	{
+		"color": "orange", 
+		"fontcolor": "black",
+		"selected": false
+	},
+	{
+		"color": "yellow",
+		"fontcolor": "black",
+		"selected": false
+	},
+	{
+		"color": "green",
+		"fontcolor": "white",
+		"selected": false
+	},
+	{
+		"color": "blue",
+		"fontcolor": "white",
+		"selected": false
+	},
+	{
+		"color": "indigo",
+		"fontcolor": "white",
+		"selected": false
+	},
+	{
+		"color": "violet",
+		"fontcolor": "black",
+		"selected": false
+	}
+]
