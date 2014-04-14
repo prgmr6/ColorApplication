@@ -28,6 +28,21 @@ body {
   max-width: 680px;
   padding: 0 15px;
 }
+
 .container .text-muted {
   margin: 20px 0;
+}
+
+.colorSelector {
+    min-height:30px;
+    width:50px;
+}
+
+.spirit { min-height:30px;
+    width:50px;
+}
+
+input[type=color]::-webkit-color-swatch 
+{ 
+    background-color: transparent !important; 
 }

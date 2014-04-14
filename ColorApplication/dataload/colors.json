@@ -1,37 +1,50 @@
 ﻿[
 	{
-		"color": "red", 
+		"color": "Red", 
+		"hexColor": "#FF0000",
 		"fontcolor": "white",
 		"selected": false 
 	},
 	{
-		"color": "orange", 
+		"color": "Orange", 
+		"hexColor": "#FF681F",
 		"fontcolor": "black",
 		"selected": false
 	},
 	{
-		"color": "yellow",
+		"color": "Yellow",
+		"hexColor": "#FFFF00",
 		"fontcolor": "black",
 		"selected": false
 	},
 	{
-		"color": "green",
+		"color": "Green",
+		"hexColor": "#00FF00",
 		"fontcolor": "white",
 		"selected": false
 	},
 	{
-		"color": "blue",
+		"color": "Blue",
+		"hexColor": "#0000FF",
 		"fontcolor": "white",
 		"selected": false
 	},
 	{
-		"color": "indigo",
+		"color": "Indigo",
+		"hexColor": "#4F69C6",
 		"fontcolor": "white",
 		"selected": false
 	},
 	{
-		"color": "violet",
-		"fontcolor": "black",
+		"color": "Violet",
+		"hexColor": "#240A40",
+		"fontcolor": "white",
 		"selected": false
+	},
+	{
+		"color": "Red", 
+		"hexColor": "#FF0000",
+		"fontcolor": "white",
+		"selected": false 
 	}
 ]
